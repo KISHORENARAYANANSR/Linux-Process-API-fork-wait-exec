@@ -142,4 +142,4 @@ printf("Running ps with execlp. Now with path specified\n");
 ![alt text](outputcc_8.png)
 
 # RESULT:
-The programs are executed successfully.
+The programs are executed successfully.  
